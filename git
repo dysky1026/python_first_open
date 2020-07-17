@@ -1,0 +1,4 @@
+初始化  git init 
+查看目录  ls -la
+添加   git add  目录名/文件名
+检测    git status
